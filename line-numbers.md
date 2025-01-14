@@ -6,7 +6,8 @@
 #### 6
 #### 7 Agua frescas
 #### 8
-#### 9 GitHub is awesome.
+
+#### 9 GitHub is areally awesome.
 #### 10
 #### 11
 #### 12
