@@ -6,9 +6,9 @@
 #### 6
 #### 7 Agua frescas
 #### 8
-#### 9 Github is really good.
+#### 9 GitHub is areally awesome.
 #### 10
-#### 11 I like Winter 
+#### 11 Hi this is some text
 #### 12
 #### 13
 #### 14
